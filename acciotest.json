@@ -1,0 +1,4 @@
+{
+    "testRepo": "secret-message-decoder",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}

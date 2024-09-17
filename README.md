@@ -1,0 +1,2 @@
+# Secret Message Decoder:
+A secret agent has intercepted an encrypted message that is crucial for a mission. The message is hidden in an object stored in heap memory. Your task is to write a program that demonstrates the use of heap memory in JavaScript. Create objects that represent the encrypted message and other information, allocate them in the heap memory, and access the message object to decode and reveal the secret message.
